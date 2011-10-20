@@ -1,3 +1,7 @@
+== Welcome to Altizar, a new way to get through the day.
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
